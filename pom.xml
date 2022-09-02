@@ -34,6 +34,7 @@
 	</modules>
 
 	<properties>
+		<!--organization-->
 		<sonar.organization>nitelyte</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		
